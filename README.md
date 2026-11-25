@@ -172,6 +172,37 @@
     });
   });
 </script>
+<section id="black-friday-guides" style="max-width:900px;margin:30px auto;padding:20px;text-align:center;font-family:Arial,sans-serif;">
+  <h2 style="color:#0b5a2e;">Black Friday Special Guides</h2>
+  <p>Short chapters from the ebook. Pick the one you need.</p>
 
+  <div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;">
+
+    <div style="flex:1 1 280px;max-width:420px;border:3px solid #0b5a2e;border-radius:16px;padding:20px;">
+      <h3>How to Find Your First Customer</h3>
+      <p>Pick an offer, make your list of 20 and send a message that gets a yes.</p>
+      <a href="https://cashjoy.gumroad.com/l/pbeio" target="_blank" rel="noopener"
+         style="display:block;background:#ffe600;color:#000;font-weight:bold;font-size:18px;padding:14px;border-radius:12px;text-decoration:none;">
+        Get it for $1.50 (R26.20)
+      </a>
+    </div>
+
+    <div style="flex:1 1 280px;max-width:420px;border:3px solid #0b5a2e;border-radius:16px;padding:20px;">
+      <h3>How to Get Paid in South Africa</h3>
+      <p>Take payment safely, ask for deposits and avoid payment scams.</p>
+      <a href="https://cashjoy.gumroad.com/l/hgsxbu" target="_blank" rel="noopener"
+         style="display:block;background:#ffe600;color:#000;font-weight:bold;font-size:18px;padding:14px;border-radius:12px;text-decoration:none;">
+        Get it for $1.50 (R26.20)
+      </a>
+    </div>
+
+  </div>
+
+  <p style="margin-top:25px;">Want everything in one place?</p>
+  <a href="https://cashjoy.gumroad.com/l/max_profits" target="_blank" rel="noopener"
+     style="display:inline-block;background:#7CFC00;color:#000;font-weight:bold;font-size:18px;padding:14px 28px;border-radius:12px;text-decoration:none;">
+    Get the FULL ebook - $5.99 (R119.00)
+  </a>
+</section>
 </body>
 </html>
